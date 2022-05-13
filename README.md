@@ -14,25 +14,26 @@ Serial Number | Topic Name |  Notes Link | Youtube Link
 9	|Ml life cycle|
 10	|Data engg vs data scientist |
 	
-	2. Different ways to extract data
+#### 2. Different ways to extract data
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 	
+1 | Tensors  |
+2|  Installation of anaconda |
+3 | End to end ml toy dataset project|
+4 | Farming the ml project|
+5 | Working with csv files|
+6 | Working with sql / json data |
+7 | Fetching the data from api | 
+8 | Fetching the data using web scrapping |
+9 | Understanding your data |
 	
-1	Tensors 
-2	Installation of anaconda
-3	End to end ml toy dataset project
-4	Farming the ml project
-5	Working with csv files
-6	Working with sql / json data
-7	Fetching the data from api 
-8	Fetching the data using web scrapping
-9	Understanding your data
-	
-	3. Exploratory Data Analysis
-	
-1	Eda using univariate analysis
-2	Eda using bivariate & multivariate analysis
-3	Pandas profiling
-	
-	4. Feature Engineering
+#### 3. Exploratory Data Analysis
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 	
+1 |Eda using univariate analysis |
+2 |	Eda using bivariate & multivariate analysis|
+3 |	Pandas profiling|
+4 | Feature Engineering|
 	
 1	What is feature engineering
 2	Feature scaling & standarization
