@@ -33,20 +33,22 @@ Serial Number | Topic Name |  Notes Link | Youtube Link
 1 |Eda using univariate analysis |
 2 |	Eda using bivariate & multivariate analysis|
 3 |	Pandas profiling|
-4 | Feature Engineering|
-	
-1	What is feature engineering
-2	Feature scaling & standarization
-3	Feature scaling and normalization
-4	Encoding the categorical data
-5	One hot encoding
-6	Column transformer in ml
-7	Machine learning pipelines
-8	Function trans , log trans , recriprocal trns
-9	Power, Box, yo john transformer
-10	Binning , Binarization , Quantization , Kmeans binning 
-11	Handling mixed variables
-12	Handling data & time varibles
+
+#### 4. Feature Engineering
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1 |	What is feature engineering |
+2 |	Feature scaling & standarization|
+3 |	Feature scaling and normalization|
+4 |	Encoding the categorical data|
+5 |	One hot encoding|
+6 |	Column transformer in ml|
+7 |	Machine learning pipelines|
+8 |	Function trans , log trans , recriprocal trns|
+9 |	Power, Box, yo john transformer|
+10 |	Binning , Binarization , Quantization , Kmeans binning |
+11 |	Handling mixed variables|
+12 |	Handling data & time varibles|
 	
 	5. Handling the missing values
 	
