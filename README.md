@@ -1,9 +1,10 @@
-# ML_100
+#### ML_100
 
-Serial Number | Topic Name |  Notes Link |
--- | ---------- | -------  |-------------|
-1 |	Introduction to ml |
-2	|Ai vs Ml vs Dl |
+#### 1. Introduction 
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1  |Introduction to ml |
+2  |Ai vs Ml vs Dl |
 3 | Types of machine learning|
 4	| Batch machine learning online vs offline|
 5	|Online machine learning|
