@@ -49,129 +49,147 @@ Serial Number | Topic Name |  Notes Link | Youtube Link
 10 |	Binning , Binarization , Quantization , Kmeans binning |
 11 |	Handling mixed variables|
 12 |	Handling data & time varibles|
+
+
+#### 5. Handling the missing values
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1 |	Handling the missing data - Full overview | 
+2 |	Simple imputer & numerical data |
+3 | 	Handling missing catrgorical data |
+4 |	Missing indicator | 
+5 | 	Knn Imputer | 
+6 |	Multivariate imputations |
 	
-	5. Handling the missing values
+#### 6. Outliers
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1  | 	What are the outliers |
+2 |	Remove outliers using z score method |
+3 |	Detect & remove outliers using iqr method |
+4 |	Detect & remove outliers using percentile method |
 	
-1	Handling the missing data - Full overview
-2	Simple imputer & numerical data
-3	Handling missing catrgorical data
-4	Missing indicator
-5	Knn Imputer
-6	Multivariate imputations
+#### 7. PCA Technique
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 	
+1 |	Feature construction & spliting |
+2 |	Curse of dimensionality |
+3 | 	Pca geometric intutuion | 
+4 |	Pca problem formulation and construction |
+5 |	Code example & visualization |
 	
-	6. Outliers
+#### 8. Simple Linear Regression 
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1  |	Simple linear reg code + intution |
+2  |	Mathematical formulation |
+3  |	Regression metrics |
 	
-1	What are the outliers
-2	Remove outliers using z score method
-3	Detect & remove outliers using iqr method
-4	Detect & remove outliers using percentile method
+#### 9. Multiple Linear Regression  
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1 |	Multiple linear regression code & intution |
+2 |	Maths formulation |
+3 |	Code from scratch |
 	
-	7. PCA Technique
+#### 10. Gradient Descent 
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 	
+1  |	 GD end to end |
+2  |	Batch GD |
+3 |	Stostatic GD |
+4 |	Mini batch GD |
 	
-1	Feature construction & spliting
-2	Curse of dimensionality
-3	Pca geometric intutuion
-4	Pca problem formulation and construction
-5	Code example & visualization
+#### 11. Polynomial Regressions
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 	
+1 |	Introduction |
+2 |	Bias var trade off |
 	
-	8. Simple Linear Regression 
+#### 12. Ridge regression 
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1 |	Introduction intution and code |
+2 |	Maths , code  |
+3 | 	Linear regul models |
+4 |	5 key points of ridge regressions |
 	
-1	Simple linear reg code + intution
-2	Mathematical formulation
-3	Regression metrics
+#### 13. Lasso Regression
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1 |	Intution and code |
+2 |	Why lasso creates sparscity|
+3 |	Elastic net|
 	
-	9. Multiple Linear Regression  
+#### 14. Logistic Regression
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 	
+1 |Perceptron trick |
+2 |	Perceptron trick code |
+3 |	Sigmoid function |
+4 |	Loss function , Bin cross entropy |
+5 |	Derivative of sigmoid function |
+6 |	Gd code from scratch |
+7 |	Acc , confusion matrix | 
+8 | 	Precison, recall  and f1 score |
+9 |	Softmax , multinomial regression |
+10 |	Ploynomial freatures in regressions |
+11 |	LR hyperparameters |
 	
-1	Multiple linear regression code & intution
-2	Maths formulation
-3	Code from scratch
+#### 15. Descion Trees
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1 | 	Geometric intutuion |
+2 |	Overfit & underfitting |
+3 | 	Regression trees |
+4 |	Awesome descion trees using dlib |
 	
-	10. Gradient Descent 
+#### 16. Ensembles Techniques | Voting Ensemble
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1 |	Introduction |
+2 |	Voting classifier code idea |
+3 |	Hard voting & soft voting |
+4 |	VT regression |
 	
-1	 GD end to end
-2	Batch GD
-3	Stostatic GD
-4	Mini batch GD
+#### 17. Bagging Technique
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1  |	Introduction |
+2 |	Bagging classifiers |
+3 |	Bagging regressors |
 	
-	11. Polynomial Regressions
+#### 18. Random Forest
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1 |	Core idea |
+2 |	How it works well |
+3 |	Bagging vs Rf |
+4 |	Rf hyperparameters |
+5 | 	Hyperparamteres using GSCV  |
+6 |	OOB score |
+7 |	Feature imp in RF |
 	
-1	Introduction
-2	Bias var trade off
+#### 19. Ada boost
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1 |	Geometric intution |
+2 |	Ada boost step by step explanation |
+3 |	Ada boost algo from scratch |
+4 |	Adaboost hyperparameters |
+5 |	Bagging vs boosting |
 	
-	12. Ridge regression 
+#### 20. KMeans Algorithm
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1 |	Geometric intution |
+2 |	Student example |
+3 |	Algo from scratch |
+4 |	Algomerative & Hierchical clustering  |
 	
-1	Introduction intution and code
-2	Maths , code 
-3	Linear regul models
-4	5 key points of ridge regressions
-	
-	13. Lasso Regression
-	
-1	Intution and code
-2	Why lasso creates sparscity
-3	Elastic net
-	
-	14. Logistic Regression
-	
-1	Perceptron trick
-2	Perceptron trick code
-3	Sigmoid function
-4	Loss function , Bin cross entropy
-5	Derivative of sigmoid function
-6	Gd code from scratch
-7	Acc , confusion matrix 
-8	Precison, recall  and f1 score
-9	Softmax , multinomial regression
-10	Ploynomial freatures in regressions
-11	LR hyperparameters
-	
-	15. Descion Trees
-	
-1	Geometric intutuion
-2	Overfit & underfitting
-3	Regression trees
-4	Awesome descion trees using dlib
-	
-	16. Ensembles Techniques | Voting Ensemble
-	
-1	Introduction
-2	Voting classifier code idea
-3	Hard voting & soft voting
-4	VT regression
-	
-	17. Bagging Technique
-	
-1	Introduction
-2	Bagging classifiers
-3	Bagging regressors
-	
-	18. Random Forest
-	
-1	Core idea
-2	How it works well
-3	Bagging vs Rf
-4	Rf hyperparameters
-5	Hyperparamteres using GSCV 
-6	OOB score
-7	Feature imp in RF
-	
-	19. Ada boost
-	
-1	Geometric intution
-2	Ada boost step by step explanation
-3	Ada boost algo from scratch
-4	Adaboost hyperparameters
-5	Bagging vs boosting
-	
-	20. KMeans Algorithm
-	
-1	Geometric intution
-2	Student example
-3	Algo from scratch
-4	Algomerative & Hierchical clustering 
-	
-	21. Gradinet Boosting
-	
-1	How it works
-2	Maths of gradient boosting
-3	Stacking and blending ensembles
+#### 21. Gradinet Boosting
+Serial Number | Topic Name |  Notes Link | Youtube Link
+-- |  -------  |-------------|-----------| 
+1 |	How it works |
+2 |	Maths of gradient boosting |
+3 |	Stacking and blending ensembles |
