@@ -3,63 +3,63 @@
 #### 1. Introduction 
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1  |Introduction to ml |
-2  |Ai vs Ml vs Dl |
-3 | Types of machine learning|
-4	| Batch machine learning online vs offline|
-5	|Online machine learning|
-6	|Instance based vs model based ml|
-7	|Challenges in ml|
-8	|Applications of ml in real life|
-9	|Ml life cycle|
-10	|Data engg vs data scientist |
+1  |Introduction to ml | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+2  |Ai vs Ml vs Dl | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=2)
+3 | Types of machine learning| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=1v3_AQ26jZ0&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=3)
+4	| Batch machine learning online vs offline| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=81ymPYEtFOw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=4)
+5	|Online machine learning|[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=nPrhFxEuTYU&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=5)
+6	|Instance based vs model based ml|[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=ntAOq1ioTKo&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=6)
+7	|Challenges in ml|[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=WGUNAJki2S4&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=7)
+8	|Applications of ml in real life|[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=UZio8TcTMrI&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=8)
+9	|Ml life cycle|[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=iDbhQGz_rEo&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=9)
+10	|Data engg vs data scientist |[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=93rKZs0MkgU&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=10)
 	
 #### 2. Different ways to extract data
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 	
-1 | Tensors  |
-2|  Installation of anaconda |
-3 | End to end ml toy dataset project|
-4 | Farming the ml project|
-5 | Working with csv files|
-6 | Working with sql / json data |
-7 | Fetching the data from api | 
-8 | Fetching the data using web scrapping |
-9 | Understanding your data |
+1 | Tensors  | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=vVhD2EyS41Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=11)
+2|  Installation of anaconda | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=vVhD2EyS41Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=12)
+3 | End to end ml toy dataset project| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=vVhD2EyS41Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=13)
+4 | Farming the ml project| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=vVhD2EyS41Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=14)
+5 | Working with csv files| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=vVhD2EyS41Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=15)
+6 | Working with sql / json data | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=vVhD2EyS41Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=16)
+7 | Fetching the data from api | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=vVhD2EyS41Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=17)
+8 | Fetching the data using web scrapping | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=vVhD2EyS41Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=18)
+9 | Understanding your data | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=vVhD2EyS41Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=19)
 	
 #### 3. Exploratory Data Analysis
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 	
-1 |Eda using univariate analysis |
-2 |	Eda using bivariate & multivariate analysis|
-3 |	Pandas profiling|
+1 |Eda using univariate analysis | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/03.%20Exploratory%20Data%20Analysis) | [Link](https://www.youtube.com/watch?v=4HyTlbHUKSw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=20)
+2 |	Eda using bivariate & multivariate analysis| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/03.%20Exploratory%20Data%20Analysis) | [Link](https://www.youtube.com/watch?v=4HyTlbHUKSw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=21)
+3 |	Pandas profiling| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/03.%20Exploratory%20Data%20Analysis) | [Link](https://www.youtube.com/watch?v=4HyTlbHUKSw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=22)
 
 #### 4. Feature Engineering
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1 |	What is feature engineering |
-2 |	Feature scaling & standarization|
-3 |	Feature scaling and normalization|
-4 |	Encoding the categorical data|
-5 |	One hot encoding|
-6 |	Column transformer in ml|
-7 |	Machine learning pipelines|
-8 |	Function trans , log trans , recriprocal trns|
-9 |	Power, Box, yo john transformer|
-10 |	Binning , Binarization , Quantization , Kmeans binning |
-11 |	Handling mixed variables|
-12 |	Handling data & time varibles|
+1 |	What is feature engineering | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=23)
+2 |	Feature scaling & standarization| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=24)
+3 |	Feature scaling and normalization| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=25)
+4 |	Encoding the categorical data| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=26)
+5 |	One hot encoding| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=27)
+6 |	Column transformer in ml| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=28)
+7 |	Machine learning pipelines| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=29)
+8 |	Function trans , log trans , recriprocal trns| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=30)
+9 |	Power, Box, yo john transformer| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=31)
+10 |	Binning , Binarization , Quantization , Kmeans binning | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=32)
+11 |	Handling mixed variables| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=33)
+12 |	Handling data & time varibles| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/04.%20Feature%20Engineering) | [Link](https://www.youtube.com/watch?v=sluoVhT0ehg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=34)
 
 
 #### 5. Handling the missing values
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1 |	Handling the missing data - Full overview | 
-2 |	Simple imputer & numerical data |
-3 | 	Handling missing catrgorical data |
-4 |	Missing indicator | 
-5 | 	Knn Imputer | 
-6 |	Multivariate imputations |
+1 |	Handling the missing data - Full overview | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/05.%20Handling%20the%20missing%20values) | [Link](https://www.youtube.com/watch?v=aUnNWZorGmk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=35)
+2 |	Simple imputer & numerical data | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/05.%20Handling%20the%20missing%20values) | [Link](https://www.youtube.com/watch?v=aUnNWZorGmk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=36)
+3 | 	Handling missing catrgorical data | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/05.%20Handling%20the%20missing%20values) | [Link](https://www.youtube.com/watch?v=aUnNWZorGmk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=37)
+4 |	Missing indicator | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/05.%20Handling%20the%20missing%20values) | [Link](https://www.youtube.com/watch?v=aUnNWZorGmk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=38)
+5 | 	Knn Imputer | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/05.%20Handling%20the%20missing%20values) | [Link](https://www.youtube.com/watch?v=aUnNWZorGmk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=39)
+6 |	Multivariate imputations | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/05.%20Handling%20the%20missing%20values) | [Link](https://www.youtube.com/watch?v=aUnNWZorGmk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=40)
 	
 #### 6. Outliers
 Serial Number | Topic Name |  Notes Link | Youtube Link
