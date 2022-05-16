@@ -1,4 +1,4 @@
-#### ML_100
+# ML_100
 
 #### 1. Introduction 
 Serial Number | Topic Name |  Notes Link | Youtube Link
@@ -64,132 +64,132 @@ Serial Number | Topic Name |  Notes Link | Youtube Link
 #### 6. Outliers
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1  | 	What are the outliers |
-2 |	Remove outliers using z score method |
-3 |	Detect & remove outliers using iqr method |
-4 |	Detect & remove outliers using percentile method |
+1  | 	What are the outliers | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/06.%20Outliers) | [Link](https://www.youtube.com/watch?v=Lln1PKgGr_M&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=41)
+2 |	Remove outliers using z score method | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/06.%20Outliers) | [Link](https://www.youtube.com/watch?v=OnPE-Z8jtqM&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=42)
+3 |	Detect & remove outliers using iqr method | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/06.%20Outliers) | [Link](https://www.youtube.com/watch?v=Ccv1-W5ilak&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=43)
+4 |	Detect & remove outliers using percentile method | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/06.%20Outliers) | [Link](https://www.youtube.com/watch?v=bcXA4CqRXvM&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=44)
 	
 #### 7. PCA Technique
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 	
-1 |	Feature construction & spliting |
-2 |	Curse of dimensionality |
-3 | 	Pca geometric intutuion | 
-4 |	Pca problem formulation and construction |
-5 |	Code example & visualization |
+1 |	Feature construction & spliting | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/07.%20PCA%20Technique) | [Link](https://www.youtube.com/watch?v=ma-h30PoFms&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=45)
+2 |	Curse of dimensionality | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/07.%20PCA%20Technique) | [Link](https://www.youtube.com/watch?v=ToGuhynu-No&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=46)
+3 | 	Pca geometric intutuion | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/07.%20PCA%20Technique) | [Link](https://www.youtube.com/watch?v=iRbsBi5W0-c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=47)
+4 |	Pca problem formulation and construction | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/07.%20PCA%20Technique) | [Link](https://www.youtube.com/watch?v=tXXnxjj2wM4&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=48)
+5 |	Code example & visualization | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/07.%20PCA%20Technique) | [Link](https://www.youtube.com/watch?v=tofVCUDrg4M&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=49)
 	
 #### 8. Simple Linear Regression 
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1  |	Simple linear reg code + intution |
-2  |	Mathematical formulation |
-3  |	Regression metrics |
+1  |	Simple linear reg code + intution | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/08.%20Simple%20Linear%20Regression) | [Link](https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=50)
+2  |	Mathematical formulation | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/08.%20Simple%20Linear%20Regression) | [Link](https://www.youtube.com/watch?v=dXHIDLPKdmA&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=51)
+3  |	Regression metrics | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/08.%20Simple%20Linear%20Regression) | [Link](https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=52)
 	
 #### 9. Multiple Linear Regression  
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1 |	Multiple linear regression code & intution |
-2 |	Maths formulation |
-3 |	Code from scratch |
+1 |	Multiple linear regression code & intution | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/09.%20Multiple%20Linear%20Regression) | [Link](https://www.youtube.com/watch?v=ashGekqstl8&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=53)
+2 |	Maths formulation | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/09.%20Multiple%20Linear%20Regression) | [Link](https://www.youtube.com/watch?v=NU37mF5q8VE&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=54)
+3 |	Code from scratch | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/09.%20Multiple%20Linear%20Regression) | [Link](https://www.youtube.com/watch?v=VmZWXzxmNrE&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=55)
 	
 #### 10. Gradient Descent 
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 	
-1  |	 GD end to end |
-2  |	Batch GD |
-3 |	Stostatic GD |
-4 |	Mini batch GD |
+1  |	 GD end to end | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/10.%20Gradient%20Descent) | [Link](https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=56)
+2  |	Batch GD | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/10.%20Gradient%20Descent) | [Link](https://www.youtube.com/watch?v=Jyo53pAyVAM&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=57)
+3 |	Stostatic GD | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/10.%20Gradient%20Descent) | [Link](https://www.youtube.com/watch?v=V7KBAa_gh4c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=58)
+4 |	Mini batch GD | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/10.%20Gradient%20Descent) | [Link](https://www.youtube.com/watch?v=_scscQ4HVTY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=59)
 	
 #### 11. Polynomial Regressions
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 	
-1 |	Introduction |
-2 |	Bias var trade off |
+1 |	Introduction | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/11.%20Polynomial%20Regressions) | [Link](https://www.youtube.com/watch?v=BNWLf3cKdbQ&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=60)
+2 |	Bias var trade off | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/11.%20Polynomial%20Regressions) | [Link](https://www.youtube.com/watch?v=74DU02Fyrhk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=61)
 	
 #### 12. Ridge regression 
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1 |	Introduction intution and code |
-2 |	Maths , code  |
-3 | 	Linear regul models |
-4 |	5 key points of ridge regressions |
+1 |	Introduction intution and code | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/12.%20Ridge%20regression) | [Link](https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=62)
+2 |	Maths , code  | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/12.%20Ridge%20regression) | [Link](https://www.youtube.com/watch?v=oDlZBQjk_3A&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=63)
+3 | 	Linear regul models | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/12.%20Ridge%20regression) | [Link](https://www.youtube.com/watch?v=Fci_wwMp8G8&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=64)
+4 |	5 key points of ridge regressions | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/12.%20Ridge%20regression) | [Link](https://www.youtube.com/watch?v=8osKeShYVRQ&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=65)
 	
 #### 13. Lasso Regression
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1 |	Intution and code |
-2 |	Why lasso creates sparscity|
-3 |	Elastic net|
+1 |	Intution and code | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/13.%20Lasso%20Regression) | [Link](https://www.youtube.com/watch?v=HLF4bFbBgwk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=66)
+2 |	Why lasso creates sparscity| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/13.%20Lasso%20Regression) | [Link](https://www.youtube.com/watch?v=FN4aZPIAfI4&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=67)
+3 |	Elastic net| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/13.%20Lasso%20Regression) | [Link](https://www.youtube.com/watch?v=2g2DBkFhTTY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=68)
 	
 #### 14. Logistic Regression
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 	
-1 |Perceptron trick |
-2 |	Perceptron trick code |
-3 |	Sigmoid function |
-4 |	Loss function , Bin cross entropy |
-5 |	Derivative of sigmoid function |
-6 |	Gd code from scratch |
-7 |	Acc , confusion matrix | 
-8 | 	Precison, recall  and f1 score |
-9 |	Softmax , multinomial regression |
-10 |	Ploynomial freatures in regressions |
-11 |	LR hyperparameters |
+1 |     Perceptron trick | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/14.%20Logistic%20Regression) | [Link](https://www.youtube.com/watch?v=XNXzVfItWGY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=69)
+2 |	Perceptron trick code | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/14.%20Logistic%20Regression) | [Link](https://www.youtube.com/watch?v=tLezwPKvPK4&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=70)
+3 |	Sigmoid function | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/14.%20Logistic%20Regression) | [Link](https://www.youtube.com/watch?v=ehO0-6i9qD4&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=71)
+4 |	Loss function , Bin cross entropy | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/14.%20Logistic%20Regression) | [Link](youtube.com/watch?v=6bXOo0sxY5c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=72)
+5 |	Derivative of sigmoid function | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/14.%20Logistic%20Regression) | [Link](https://www.youtube.com/watch?v=awjXaFR1jOM&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=73)
+6 |	Gd code from scratch | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/14.%20Logistic%20Regression) | [Link](https://www.youtube.com/watch?v=ABrrSwMYWSg&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=74)
+7 |	Acc , confusion matrix |  [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/14.%20Logistic%20Regression) | [Link](https://www.youtube.com/watch?v=c09drtuCS3c&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=75)
+8 | 	Precison, recall  and f1 score | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/14.%20Logistic%20Regression) | [Link](https://www.youtube.com/watch?v=iK-kdhJ-7yI&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=76)
+9 |	Softmax , multinomial regression | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/14.%20Logistic%20Regression) | [Link](https://www.youtube.com/watch?v=Z8noL_0M4tw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=77)
+10 |	Ploynomial freatures in regressions | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/14.%20Logistic%20Regression) | [Link](https://www.youtube.com/watch?v=WnBYW_DX3sM&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=78)
+11 |	LR hyperparameters | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/14.%20Logistic%20Regression) | [Link](https://www.youtube.com/watch?v=ay_OcblJasE&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=79)
 	
 #### 15. Descion Trees
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1 | 	Geometric intutuion |
-2 |	Overfit & underfitting |
-3 | 	Regression trees |
-4 |	Awesome descion trees using dlib |
+1 | 	Geometric intutuion | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/15.%20Descion%20Trees) | [Link](https://www.youtube.com/watch?v=IZnno-dKgVQ&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=80)
+2 |	Overfit & underfitting | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/15.%20Descion%20Trees) | [Link](https://www.youtube.com/watch?v=mDEV0Iucwz0&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=81)
+3 | 	Regression trees | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/15.%20Descion%20Trees) | [Link](https://www.youtube.com/watch?v=RANHxyAvtM4&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=82)
+4 |	Awesome descion trees using dlib | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/15.%20Descion%20Trees) | [Link](https://www.youtube.com/watch?v=SlMZqfvl5uw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=83)
 	
 #### 16. Ensembles Techniques | Voting Ensemble
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1 |	Introduction |
-2 |	Voting classifier code idea |
-3 |	Hard voting & soft voting |
-4 |	VT regression |
+1 |	Introduction | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/16.%20Ensembles%20Techniques%20Voting%20Ensemble) | [Link](https://www.youtube.com/watch?v=bHK1fE_BUms&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=84) 
+2 |	Voting classifier code idea | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/16.%20Ensembles%20Techniques%20Voting%20Ensemble) | [Link](https://www.youtube.com/watch?v=_W1i-c_6rOk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=85)
+3 |	Hard voting & soft voting | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/16.%20Ensembles%20Techniques%20Voting%20Ensemble) | [Link](https://www.youtube.com/watch?v=pGQnNYdPTvY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=86)
+4 |	VT regression | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/16.%20Ensembles%20Techniques%20Voting%20Ensemble) | [Link](https://www.youtube.com/watch?v=ut4vh59rGkw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=87)
 	
 #### 17. Bagging Technique
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1  |	Introduction |
-2 |	Bagging classifiers |
-3 |	Bagging regressors |
+1  |	Introduction | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/17.%20Bagging%20Technique) | [Link](https://www.youtube.com/watch?v=LUiBOAy7x6Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=88)
+2 |	Bagging classifiers | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/17.%20Bagging%20Technique) | [Link](https://www.youtube.com/watch?v=-1T54G_E-ys&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=89)
+3 |	Bagging regressors | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/17.%20Bagging%20Technique) | [Link](https://www.youtube.com/watch?v=HYVzrETXbkE&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=90)
 	
 #### 18. Random Forest
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1 |	Core idea |
-2 |	How it works well |
-3 |	Bagging vs Rf |
-4 |	Rf hyperparameters |
-5 | 	Hyperparamteres using GSCV  |
-6 |	OOB score |
-7 |	Feature imp in RF |
+1 |	Core idea | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/18.%20Random%20Forest) | [Link](https://www.youtube.com/watch?v=F9uESCHGjhA&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=91)
+2 |	How it works well | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/18.%20Random%20Forest) | [Link](https://www.youtube.com/watch?v=jHgG4gjuFAk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=92)
+3 |	Bagging vs Rf | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/18.%20Random%20Forest) | [Link](https://www.youtube.com/watch?v=l93jRojZMqU&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=93)
+4 |	Rf hyperparameters | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/18.%20Random%20Forest) | [Link](https://www.youtube.com/watch?v=WOFVY_wQ9wU&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=94)
+5 | 	Hyperparamteres using GSCV  | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/18.%20Random%20Forest) | [Link](https://www.youtube.com/watch?v=4Im0CT43QxY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=95)
+6 |	OOB score | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/18.%20Random%20Forest) | [Link](https://www.youtube.com/watch?v=tdDhyFoSG94&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=96)
+7 |	Feature imp in RF | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/18.%20Random%20Forest) | [Link](https://www.youtube.com/watch?v=R47JAob1xBY&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=97)
 	
 #### 19. Ada boost
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1 |	Geometric intution |
-2 |	Ada boost step by step explanation |
-3 |	Ada boost algo from scratch |
-4 |	Adaboost hyperparameters |
-5 |	Bagging vs boosting |
+1 |	Geometric intution | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/19.%20Ada%20boost) | [Link](https://www.youtube.com/watch?v=sFKnP0iP0K0&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=98)
+2 |	Ada boost step by step explanation | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/19.%20Ada%20boost) | [Link](https://www.youtube.com/watch?v=RT0t9a3Xnfw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=99)
+3 |	Ada boost algo from scratch | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/19.%20Ada%20boost) | [Link](https://www.youtube.com/watch?v=a20TaKNsriE&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=100)
+4 |	Adaboost hyperparameters | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/19.%20Ada%20boost) | [Link](https://www.youtube.com/watch?v=JmXnztjULnQ&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=101)
+5 |	Bagging vs boosting | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/19.%20Ada%20boost) | [Link](https://www.youtube.com/watch?v=7M5oWXCpDEw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=102)
 	
 #### 20. KMeans Algorithm
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1 |	Geometric intution |
-2 |	Student example |
-3 |	Algo from scratch |
-4 |	Algomerative & Hierchical clustering  |
+1 |	Geometric intution | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/20.%20KMeans%20Algorithm) | [Link](https://www.youtube.com/watch?v=5shTLzwAdEc&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=103)
+2 |	Student example |  [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/20.%20KMeans%20Algorithm) | [Link](https://www.youtube.com/watch?v=UPvv9SprgVo&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=104)
+3 |	Algo from scratch | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/20.%20KMeans%20Algorithm) | [Link](https://www.youtube.com/watch?v=MFraC1JObUo&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=105)
+4 |	Algomerative & Hierchical clustering  | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/20.%20KMeans%20Algorithm) | [Link](https://www.youtube.com/watch?v=Ka5i9TVUT-E&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=109)
 	
 #### 21. Gradinet Boosting
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1 |	How it works |
-2 |	Maths of gradient boosting |
-3 |	Stacking and blending ensembles |
+1 |	How it works | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/21.%20Gradinet%20Boosting) | [Link](https://www.youtube.com/watch?v=fbKz7N92mhQ&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=106)
+2 |	Maths of gradient boosting | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/21.%20Gradinet%20Boosting) | [Link](https://www.youtube.com/watch?v=nMNiTZm-qY0&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=107)
+3 |	Stacking and blending ensembles | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/21.%20Gradinet%20Boosting) | [Link](https://www.youtube.com/watch?v=O-aDHBGMqXA&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=108)
