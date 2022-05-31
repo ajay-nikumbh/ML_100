@@ -1,50 +1,10 @@
-3. https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1/?page=4&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Tree&sortBy=submissions
-
-```cpp
-vector<int> findSpiral(Node *root)
-{
-    //Your code here
-    vector<int> v;
-    int level=0;
-    if(root==NULL)
-	{
-        return v;
-    }
-    queue<Node*> q;
-    q.push(root);
-    
-	while(!q.empty())
-	{
-        int size=q.size(); 
-        vector<int> temp;
-        for(int i=0;i<size;i++)
-		{
-            Node* r=q.front();
-            q.pop();
-            temp.push_back(r->data);
-            
-			if(r->left)
-			{
-                q.push(r->left);
-            }
-            
-			if(r->right)
-			{
-                q.push(r->right);
-            }
-        }
-        if(level%2==0)
-		{
-            reverse(temp.begin(),temp.end());
-        }
-        
-		for(int i=0;i<temp.size();i++)
-		{
-            v.push_back(temp[i]);
-        }
-        level++;
-    }
-    return v;
-}
-
-```
+![img3](https://user-images.githubusercontent.com/37560890/171258318-dfb911e7-a79a-4963-95c4-2ef1c3ab398a.jpg)
+![img6](https://user-images.githubusercontent.com/37560890/171258327-5a751ecf-d5ef-426d-be5d-b522317c491f.jpg)
+![img9](https://user-images.githubusercontent.com/37560890/171258328-ee940b9f-43c4-441a-acdd-91c51a0db01b.jpg)
+![img12](https://user-images.githubusercontent.com/37560890/171258332-ea4c8f3f-c92f-421f-bc2e-cb148a179e72.jpg)
+![img15](https://user-images.githubusercontent.com/37560890/171258335-83efd72c-7bb3-4f9b-aade-722e364f1057.jpg)
+![img18](https://user-images.githubusercontent.com/37560890/171258337-9a5f0ec7-d578-4bfd-b7f8-a1356c0dc4ac.jpg)
+![img22](https://user-images.githubusercontent.com/37560890/171258339-0457be6d-bcbd-4a13-80aa-8f144ff517ca.jpg)
+![img25](https://user-images.githubusercontent.com/37560890/171258341-fe8825de-adb8-40e8-88db-6c30023aba3a.jpg)
+![img28](https://user-images.githubusercontent.com/37560890/171258344-9f844112-1afd-41bd-869d-493c9b421a02.jpg)
+![img31](https://user-images.githubusercontent.com/37560890/171258347-90485b9a-d174-42b6-b7c5-9d26c136ad55.jpg)
