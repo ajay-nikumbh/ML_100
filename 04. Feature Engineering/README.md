@@ -1,50 +1,100 @@
-3. https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1/?page=4&difficulty[]=-2&difficulty[]=-1&difficulty[]=0&category[]=Tree&sortBy=submissions
-
-```cpp
-vector<int> findSpiral(Node *root)
-{
-    //Your code here
-    vector<int> v;
-    int level=0;
-    if(root==NULL)
-	{
-        return v;
-    }
-    queue<Node*> q;
-    q.push(root);
-    
-	while(!q.empty())
-	{
-        int size=q.size(); 
-        vector<int> temp;
-        for(int i=0;i<size;i++)
-		{
-            Node* r=q.front();
-            q.pop();
-            temp.push_back(r->data);
-            
-			if(r->left)
-			{
-                q.push(r->left);
-            }
-            
-			if(r->right)
-			{
-                q.push(r->right);
-            }
-        }
-        if(level%2==0)
-		{
-            reverse(temp.begin(),temp.end());
-        }
-        
-		for(int i=0;i<temp.size();i++)
-		{
-            v.push_back(temp[i]);
-        }
-        level++;
-    }
-    return v;
-}
-
-```
+![img103](https://user-images.githubusercontent.com/37560890/171990333-04e155cd-7d64-48a8-8af4-233314b25d0d.jpg)
+![img105](https://user-images.githubusercontent.com/37560890/171990334-de8cf868-20f6-41ca-b2be-67830d081f33.jpg)
+![img107](https://user-images.githubusercontent.com/37560890/171990335-b040fef4-becd-474b-b5ee-b96803d9e16f.jpg)
+![img109](https://user-images.githubusercontent.com/37560890/171990336-5cbb2f0d-62c2-4251-b8dc-0440584a63ce.jpg)
+![img111](https://user-images.githubusercontent.com/37560890/171990338-9ae1ed99-31f7-44c8-a257-514d9b6b495e.jpg)
+![img113](https://user-images.githubusercontent.com/37560890/171990340-e10cbb33-1586-4540-9447-fc00e94a86b2.jpg)
+![img115](https://user-images.githubusercontent.com/37560890/171990342-11107ef9-832b-4a70-b1e3-255182f01266.jpg)
+![img117](https://user-images.githubusercontent.com/37560890/171990343-c1169b86-98ac-4ad6-843e-365543d6f8f6.jpg)
+![img119](https://user-images.githubusercontent.com/37560890/171990344-6db725fc-a870-4071-87ca-8586d1ef9797.jpg)
+![img121](https://user-images.githubusercontent.com/37560890/171990345-31924424-98ba-4a48-b34d-cedeb74de128.jpg)
+![img123](https://user-images.githubusercontent.com/37560890/171990346-207a3846-6dce-4923-ba27-665ace707e51.jpg)
+![img125](https://user-images.githubusercontent.com/37560890/171990347-03b5489b-79ee-42f6-8039-b2596358b197.jpg)
+![img127](https://user-images.githubusercontent.com/37560890/171990348-a0236061-34e2-4550-9f6a-533de0f5e81c.jpg)
+![img129](https://user-images.githubusercontent.com/37560890/171990349-90d89e3e-f7fb-4cc4-b869-14f0d5d95167.jpg)
+![img131](https://user-images.githubusercontent.com/37560890/171990350-c29fae99-d239-4cae-b8e6-6cd40eda0454.jpg)
+![img133](https://user-images.githubusercontent.com/37560890/171990352-81691cb0-c55c-4b76-8e1b-cfd9321dd475.jpg)
+![img135](https://user-images.githubusercontent.com/37560890/171990353-e86819e3-c129-4e7b-a63a-8f13715e1fe3.jpg)
+![img137](https://user-images.githubusercontent.com/37560890/171990354-0216c487-a895-4805-91c2-386c91ca91ca.jpg)
+![img139](https://user-images.githubusercontent.com/37560890/171990355-a1119bbb-2712-4c1f-958e-ead091adbbf2.jpg)
+![img141](https://user-images.githubusercontent.com/37560890/171990356-3e867745-9024-4514-b19c-f94cbb56fd0f.jpg)
+![img143](https://user-images.githubusercontent.com/37560890/171990357-193a6692-9927-4bc7-94e3-0a87b3b59658.jpg)
+![img145](https://user-images.githubusercontent.com/37560890/171990359-bf5337c0-b42b-4696-85e2-07ddfe78ce5e.jpg)
+![img147](https://user-images.githubusercontent.com/37560890/171990360-96e48a2a-cac1-4cd8-9f9a-4a8b04877625.jpg)
+![img149](https://user-images.githubusercontent.com/37560890/171990361-55dfccfb-9973-480a-80a1-1382b0dba1bf.jpg)
+![img151](https://user-images.githubusercontent.com/37560890/171990364-e48b2ecf-df01-4847-a58f-61338713b237.jpg)
+![img153](https://user-images.githubusercontent.com/37560890/171990366-730de21e-1518-42fb-bd08-493c40b33728.jpg)
+![img155](https://user-images.githubusercontent.com/37560890/171990368-f36b4d85-533e-4abd-b6bb-4670d0ba2d6e.jpg)
+![img157](https://user-images.githubusercontent.com/37560890/171990370-4d257116-815c-4061-a6dc-f1f39f93ced7.jpg)
+![img159](https://user-images.githubusercontent.com/37560890/171990371-19e472d3-0b03-4a4f-b609-c3fb17e2a817.jpg)
+![img161](https://user-images.githubusercontent.com/37560890/171990372-070c788d-bd97-4e2d-a58a-bba328100ae0.jpg)
+![img163](https://user-images.githubusercontent.com/37560890/171990373-8642821c-4f77-4341-89e5-aa2776dd8a29.jpg)
+![img165](https://user-images.githubusercontent.com/37560890/171990374-f0b392b8-0f1a-40de-90a0-f17b97b86204.jpg)
+![img167](https://user-images.githubusercontent.com/37560890/171990375-7e3da5a6-7a20-4758-954a-d3461f2e1e16.jpg)
+![img169](https://user-images.githubusercontent.com/37560890/171990376-beae5b26-7e64-428b-9e5e-1eba11461602.jpg)
+![img171](https://user-images.githubusercontent.com/37560890/171990377-81ef6110-c0f3-4095-9b65-9a7c92d974c6.jpg)
+![img173](https://user-images.githubusercontent.com/37560890/171990378-aff10973-2b00-46e8-879c-7d803757836f.jpg)
+![img175](https://user-images.githubusercontent.com/37560890/171990379-c9e2ca24-f6b9-4316-802b-938799a570e0.jpg)
+![img177](https://user-images.githubusercontent.com/37560890/171990380-d3d395a3-eac7-4b9a-afa0-d3cef14b35bd.jpg)
+![img179](https://user-images.githubusercontent.com/37560890/171990381-dce03244-6efa-4e6e-8ceb-dff903fb96ec.jpg)
+![img181](https://user-images.githubusercontent.com/37560890/171990382-6497a785-6b60-4c9e-b736-5e0b242ea0c3.jpg)
+![img183](https://user-images.githubusercontent.com/37560890/171990384-be4909c5-b90c-4ea7-afb5-bc06a424b109.jpg)
+![img185](https://user-images.githubusercontent.com/37560890/171990386-639a0246-9a23-414d-83e8-eabd252fc086.jpg)
+![img187](https://user-images.githubusercontent.com/37560890/171990387-194e937b-2615-4421-a66b-0c0a590ebe07.jpg)
+![img189](https://user-images.githubusercontent.com/37560890/171990389-ce7f06fc-f022-447a-ad31-dbb2e435b834.jpg)
+![img191](https://user-images.githubusercontent.com/37560890/171990392-f4be3a83-1f3b-4a8c-8691-0c798cf1be87.jpg)
+![img193](https://user-images.githubusercontent.com/37560890/171990393-cbca97aa-d8ea-43f4-a89f-47690388509a.jpg)
+![img195](https://user-images.githubusercontent.com/37560890/171990394-bebbeb0b-9c1b-4b69-86ac-19212e1fa82a.jpg)
+![img197](https://user-images.githubusercontent.com/37560890/171990396-ca7df3d2-13f6-440d-a45c-53a7bacce1d6.jpg)
+![img199](https://user-images.githubusercontent.com/37560890/171990397-34e73bd2-4561-4f3d-a894-53c696486583.jpg)
+![img201](https://user-images.githubusercontent.com/37560890/171990399-a835dd9c-e6a9-4245-afc8-3171804d8f0f.jpg)
+![img203](https://user-images.githubusercontent.com/37560890/171990400-5320135e-3d36-48d2-bd9a-36d798c78c56.jpg)
+![img205](https://user-images.githubusercontent.com/37560890/171990401-6743bbc8-1773-4b68-aea7-eb2f43b38ce6.jpg)
+![img207](https://user-images.githubusercontent.com/37560890/171990403-5076cf77-174c-483c-a0f1-61745f54fb76.jpg)
+![img209](https://user-images.githubusercontent.com/37560890/171990405-63ac300c-96bd-454c-b277-5c13b77de2c2.jpg)
+![img211](https://user-images.githubusercontent.com/37560890/171990406-cfa84ecd-37c9-47fa-9177-8c53fe66ca19.jpg)
+![img213](https://user-images.githubusercontent.com/37560890/171990409-84c80ec0-c409-41e4-9107-2ac691e9cd7f.jpg)
+![img215](https://user-images.githubusercontent.com/37560890/171990411-eda8a4de-c782-40bf-a9ab-bf934f83228c.jpg)
+![img217](https://user-images.githubusercontent.com/37560890/171990412-bc47c3f3-133c-43b9-80d8-7a20b441393c.jpg)
+![img219](https://user-images.githubusercontent.com/37560890/171990413-3de981c2-6628-4fc1-88b7-23faf5b55095.jpg)
+![img221](https://user-images.githubusercontent.com/37560890/171990414-b50f1da1-d03e-4f15-84b0-db4c7b5bb38a.jpg)
+![img223](https://user-images.githubusercontent.com/37560890/171990417-3a1d5219-b7af-4829-b02a-3ed378d179fa.jpg)
+![img225](https://user-images.githubusercontent.com/106215989/171990458-3feb128a-6f49-493f-9942-8c8740fa75fb.jpg)
+![img227](https://user-images.githubusercontent.com/106215989/171990461-90fadf81-d3c3-411e-90c6-30b409564be5.jpg)
+![img229](https://user-images.githubusercontent.com/106215989/171990463-a6756e00-e47c-47d7-8a4e-ef088b4014e7.jpg)
+![img231](https://user-images.githubusercontent.com/106215989/171990464-75c8d15f-c2ad-4945-9824-a8bc4df170fa.jpg)
+![img233](https://user-images.githubusercontent.com/106215989/171990465-524b58ce-0137-423e-acb3-f5f0887158f6.jpg)
+![img235](https://user-images.githubusercontent.com/106215989/171990467-c964f2bd-9030-4ce7-bf48-e55d39789436.jpg)
+![img237](https://user-images.githubusercontent.com/106215989/171990468-a75540f4-48de-4332-a267-bdc5b6b5a1c4.jpg)
+![img239](https://user-images.githubusercontent.com/106215989/171990470-807a56f2-b310-4b8a-bfb5-06fc98929549.jpg)
+![img241](https://user-images.githubusercontent.com/106215989/171990472-4fbad725-54a6-4b07-af11-be9ffd5b96a3.jpg)
+![img243](https://user-images.githubusercontent.com/106215989/171990474-fd7aebd0-a261-4727-9916-55326c9084fc.jpg)
+![img245](https://user-images.githubusercontent.com/106215989/171990476-86b92366-a929-42ea-9109-f5aed4668d71.jpg)
+![img247](https://user-images.githubusercontent.com/106215989/171990477-167229e6-69f8-4212-9ab5-acb55a0991fc.jpg)
+![img249](https://user-images.githubusercontent.com/106215989/171990479-58eff719-b076-423f-969d-1a80ceb44b1e.jpg)
+![img251](https://user-images.githubusercontent.com/106215989/171990480-495f8dab-b15a-4567-802f-9564edbd4177.jpg)
+![img253](https://user-images.githubusercontent.com/106215989/171990481-9ef4be5a-eb09-4225-ae78-da557373cade.jpg)
+![img255](https://user-images.githubusercontent.com/106215989/171990482-cfe8e13d-20b3-45d3-9296-448490deb1d8.jpg)
+![img257](https://user-images.githubusercontent.com/106215989/171990484-95596b05-d6a3-4303-b2df-c1f1fc9d9634.jpg)
+![img259](https://user-images.githubusercontent.com/106215989/171990486-4bed325d-63ea-48b3-b002-7f3d1371c34e.jpg)
+![img261](https://user-images.githubusercontent.com/106215989/171990487-d9d8ac25-1bc4-4e1f-9b3c-a3abaad578bd.jpg)
+![img263](https://user-images.githubusercontent.com/106215989/171990489-8abe36e7-bfea-4b88-8975-7b2691da2285.jpg)
+![img265](https://user-images.githubusercontent.com/106215989/171990490-c68f1dad-f21f-4ed8-81bf-d60cbfadab19.jpg)
+![img267](https://user-images.githubusercontent.com/106215989/171990491-3ee0ad92-c100-434a-b52a-11d347b6fdd2.jpg)
+![img269](https://user-images.githubusercontent.com/106215989/171990492-c439f4ee-2318-4571-b741-f9bed0fc470d.jpg)
+![img271](https://user-images.githubusercontent.com/106215989/171990493-d71b7df9-5d80-4ba1-a63b-6fcf5a36e5b5.jpg)
+![img273](https://user-images.githubusercontent.com/106215989/171990494-e9267aac-32d6-43b6-b806-2f1bb5e0fc30.jpg)
+![img275](https://user-images.githubusercontent.com/106215989/171990496-56429791-5d24-40da-8783-af111cfff07d.jpg)
+![img277](https://user-images.githubusercontent.com/106215989/171990497-72528c61-774f-4a85-8281-6fc34fd2d2de.jpg)
+![img279](https://user-images.githubusercontent.com/106215989/171990498-f5910b15-f720-412f-a636-a2848f979bca.jpg)
+![img281](https://user-images.githubusercontent.com/106215989/171990500-98a83e14-6294-490c-8a7a-5c8bb6626919.jpg)
+![img283](https://user-images.githubusercontent.com/106215989/171990502-8bb6dc50-c101-442b-92bb-0ced9ed4eb48.jpg)
+![img285](https://user-images.githubusercontent.com/106215989/171990504-3154c439-3e44-4101-9783-ebc37821d423.jpg)
+![img287](https://user-images.githubusercontent.com/106215989/171990506-30e7cab4-79b3-429b-beac-c19f6c0c9e01.jpg)
+![img289](https://user-images.githubusercontent.com/106215989/171990507-4d072733-6ff3-42b3-8e41-cb485464e681.jpg)
+![img291](https://user-images.githubusercontent.com/106215989/171990508-b5b5cb41-e14a-48d6-a977-5f55b4c7302c.jpg)
+![img293](https://user-images.githubusercontent.com/106215989/171990509-be8dcfe5-e694-4385-89cd-303936e3b7e2.jpg)
+![img295](https://user-images.githubusercontent.com/106215989/171990511-d52bbd9d-5cd0-4dfb-91fd-9ffcf62adc6f.jpg)
+![img297](https://user-images.githubusercontent.com/106215989/171990513-7fe2318c-8f3f-41db-8c7a-f9ea8c57ac10.jpg)
+![img299](https://user-images.githubusercontent.com/106215989/171990515-eeed7c35-7b73-4b7d-8442-17407af850a1.jpg)
+![img301](https://user-images.githubusercontent.com/106215989/171990516-bd3c37cd-1e99-49e1-bdaa-83b0da95bd9a.jpg)
